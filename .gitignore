@@ -1,0 +1,10 @@
+# Thư mục cấu hình của các IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Thư mục bộ nhớ đệm của Python
+__pycache__/
+*.pyc
+
+# Các file dữ liệu local (nếu bạn không muốn lộ điểm số hoặc file test)
+tank_scores.json
